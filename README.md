@@ -39,6 +39,7 @@ LoRA enhances the model’s adaptability while reducing computational costs, mak
 ## 🛠️ Technologies Used
 
 - Python 🐍
+- NLTK
 - NLP (Natural Language Processing)
 - BERT (Bidirectional Encoder Representations from Transformers)
 - LoRA Adapters (Efficient fine-tuning)
